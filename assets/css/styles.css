@@ -28,6 +28,8 @@ navbar{
 
 li{
     display: inline;
+    color: purple;
+    font-weight: bolder;
     position: relative;
     padding: 20px ;
 }
@@ -35,6 +37,7 @@ li{
 h1,h2{
 text-align: center;
 margin:20px;
+color: purple;
 }
 
 img {
@@ -46,6 +49,7 @@ img {
 .para1{
     text-align: center;
     display: block;
+    color: purple;
 }
 
 
@@ -90,7 +94,7 @@ textarea {
 button{
     
        align-items: center;
-    
+       width: 100px;
        margin: 10px auto;
         background-color: #4F4846;
         color: #FDF8F5;
